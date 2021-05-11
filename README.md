@@ -12,7 +12,7 @@ I enjoy Public Speaking and had a few as well!
 
 I love to pen down ocassionally Blogs as well! 
 
-I create tech content, mostly about Web Development and JavaScript, **but** I also talk about other topics than coding. I'd advise you to subscribe to stay up-to-date!
+
 
 Looking forward to reaching and helping more people by sharing my knowledge.
 
