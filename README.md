@@ -8,7 +8,7 @@
 
 ### Hi there 👋
 
-- 🎓 Pursuing Bachelor in Information Technology.
+- 🎓 Bachelor in Information Technology.
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning Flutter and Browser Extensions.
 - 👯 I’m looking to collaborate on Flutter and Web Dev.
