@@ -8,11 +8,12 @@
 
 ### Hi there 👋
 
+- 🎓 Masters in Computer Science.
 - 🎓 Bachelor in Information Technology.
-- 🔭 I’m currently working on Web Development.
+- 🔭 I’m currently working on JAVA.
 - 🌱 I’m currently learning Vue JS and TypeScript.
-- 👯 I’m looking to collaborate on Web Dev.
-- 🤔 I’m looking for help with Extensions.
+- 👯 I’m looking to collaborate on DBMS Project.
+- 🤔 I’m looking for help with Cloud.
 - 💬 Ask me about OpenSource, Community or Web Development.
 - 📫 How to reach me: arpanp99@gmail.com.
 
