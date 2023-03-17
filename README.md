@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on DBMS Project.
 - 🤔 I’m looking for help with Cloud.
 - 💬 Ask me about OpenSource, Community or Web Development.
-- 📫 How to reach me: arpanp99@gmail.com.
+- 📫 How to reach me: patel.arpa@northeastern.edu.
 
 
 
