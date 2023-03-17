@@ -1,10 +1,10 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Arpan!
 
----
+<!-- ---
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/arps_1899?label=People%20following%20me%20on%20Twitter&style=social)
 
----
+--- -->
 
 ### Hi there 👋
 
