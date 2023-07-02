@@ -6,7 +6,7 @@
 
 --- -->
 
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 - 🎓 Masters in Computer Science.
 - 🎓 Bachelor in Information Technology.
