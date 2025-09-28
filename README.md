@@ -8,14 +8,14 @@
 
 <!-- ### Hi there 👋 -->
 
-- 🎓 Masters in Computer Science.
-- 🎓 Bachelor in Information Technology.
-- 🔭 I’m currently working on JAVA.
-- 🌱 I’m currently learning Vue JS and TypeScript.
-- 👯 I’m looking to collaborate on DBMS Project.
+- 🎓 Master's in Computer Science.
+- 🎓 Bachelor's in Information Technology.
+- 🔭 I’m currently working on Java.
+- 🌱 I’m currently learning Go and Assembly.
+- 👯 I’m looking to collaborate on a Go Project.
 - 🤔 I’m looking for help with Cloud.
-- 💬 Ask me about OpenSource, Community or Web Development.
-- 📫 How to reach me: patel.arpa@northeastern.edu.
+- 💬 Ask me about OpenSource, Community, or Programming.
+- 📫 How to reach me: arpanpatel.contact@gmail.com.
 
 
 
